@@ -5,6 +5,8 @@
 
 using namespace std;
 
+variant ps1
+
 
 typedef long long ll;
 int main() {
